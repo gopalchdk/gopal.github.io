@@ -1,0 +1,83 @@
+            #con1 {
+                text-align: center;
+                position: relative;
+                top: 250px;
+                height: 650px;
+            }
+            
+            #con1 p {
+                font-size: 20px;
+                font-weight: 100;
+                text-align: justify;
+            }
+            
+            span {
+                text-decoration: none;
+                color: black;
+            }
+            
+            span:hover {
+                text-decoration: none;
+                color: red;
+                transition: all 2s ease;
+            }
+            
+            span:visited {
+                text-decoration: none;
+                color: black;
+            }
+            
+            span:activated {
+                text-decoration: none;
+                color: black;
+            }
+            
+            .jumbotron {
+                background-color: #fff;
+                font-family: trebuchet MS;
+                margin-bottom: 0px;
+            }
+            
+            .java_image1 {
+                background: url("win.jpg") no-repeat fixed;
+                background-size: cover;
+                height: 650px;
+                width: 100%;
+                margin-top: 50px;
+            }
+            
+            .java_image2 {
+                background: url("win2.jpg") no-repeat fixed;
+                height: 550px;
+                width: 100%;
+                margin: 0px;
+            }
+            
+            #con2 {
+                margin-top: 20x;
+            }
+            
+            .web1 {
+                background: url("web1.jpg") no-repeat;
+                height: 550px;
+                width: 100%;
+                margin-top: 20px;
+                margin: 0px;
+            }
+            
+            .thumbnail {
+                height: px;
+                margin: 0px;
+                border: 0px;
+            }
+            
+            .slide {
+                padding: 12px 5px;
+                box-shadow: 0 2px 6px rgba(0, 0, 0, .2);
+                border-radius: 50%;
+                background: #448aff;
+            }
+            
+            svg {
+                fill: #fff;
+            }
