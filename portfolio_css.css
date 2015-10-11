@@ -4,6 +4,12 @@
                 top: 250px;
                 height: 650px;
             }
+.header{
+background:url("innovate3.jpg")  no-repeat;
+height:750px;
+background-size:cover;
+color:#fff;
+}
             
             #con1 p {
                 font-size: 20px;
